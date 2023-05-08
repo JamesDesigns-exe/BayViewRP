@@ -18,7 +18,7 @@ Config.VehicleRestrictions = {
 		"galaxyroamer",
 		""
 	},
-	['BCSO'] = {
+	['LEO'] = {					--bcso
 		"d14charger",
 		"d14tahoe",
 		"du14tahoe",--add U for slicktop
@@ -63,6 +63,6 @@ Config.VehicleRestrictions = {
 Config.Inheritances = {
 	['1098968302925135892'] = {'Developer', 'admin'},--Dev 
 	['1101338424511836180'] = {'BOD', 'admin'},--bod
-	['1098303333904695387'] = {'BCSO', 'leo'}, --bcso
+	['1098553638235947059'] = {'LEO', 'leo'}, --leo
 
 }

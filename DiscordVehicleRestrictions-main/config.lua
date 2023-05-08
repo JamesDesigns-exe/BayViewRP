@@ -4,9 +4,9 @@ Config = {
 }
 
 Config.VehicleRestrictions = {
-	[''] = {
-		"",
-		"baller2",
+	['FAA'] = {
+		"mavrick",
+		"blimp",
 		"baller3",
 		"baller4"
 	},
@@ -64,5 +64,6 @@ Config.Inheritances = {
 	['1098968302925135892'] = {'Developer', 'admin'},--Dev 
 	['1101338424511836180'] = {'BOD', 'admin'},--bod
 	['1098553638235947059'] = {'LEO', 'leo'}, --leo
+	['1105003587727282278'] = {'FAA, faa'}, --FAA
 
 }

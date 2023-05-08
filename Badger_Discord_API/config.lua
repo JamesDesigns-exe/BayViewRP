@@ -4,7 +4,7 @@ Config = {
   Guilds = {
     ["name"] = "1008224834158870538", -- Replace this with a name, like "main"
   },
-	Bot_Token = 'MTA5OTQ0MDU0MzMwNzY3MzcxMg.G_QmL3.ZztMREfalS0dnh1zbR24wtX8gTHGwsPsc_RHK0',
+	Bot_Token = 'REMOVED FOR ACE TO WORK NOT REMOVED SERVER SIDE',
 	RoleList = {
 		['Developer'] = 1098968302925135892,
 		['Military Use'] = 1100945873535520888,
